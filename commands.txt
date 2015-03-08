@@ -1,0 +1,28 @@
+CREATE EXTERNAL TABLE json_tweet (json STRING)
+ROW FORMAT DELIMITED FIELDS TERMINATED BY '\n'
+LINES TERMINATED BY '\n'
+STORED AS TEXTFILE
+LOCATION 's3n://bdigital-mob-dataset-twitter/CAT/';
+
+CREATE TABLE IF NOT EXISTS tweets AS
+SELECT get_json_object(json_tweet.json, '$.id') as id, get_json_object(json_tweet.json, '$.createdAt') as timestamp, get_json_object(json_tweet.json, '$.geoLocation.longitude') as longitude,  get_json_object(json_tweet.json, '$.geoLocation.latitude') as latitude,
+ST_Point(get_json_object(json_tweet.json, '$.geoLocation.longitude') ,get_json_object(json_tweet.json, '$.geoLocation.latitude') ) as geom ,
+ get_json_object(json_tweet.json, '$.text') as text FROM json_tweet;
+ 
+ 
+ curl -XPUT -u bdigital:gvivSjqauYLvcTnW50p8 http://54.194.28.244:8080/tweets -d '
+{
+ "mappings" : {
+  "_default_" : {
+   "properties" : {
+    "loc" : {
+	"type" : "geo_point"
+    }
+
+   }
+  }
+ }
+}
+';
+
+geohive -e 'select concat("{\"index\":{\"_index\":\"tweets\",\"_type\":\"tweet\",\"_id\":", rowsequence() , "}} \n") , to_json(named_struct("id", id, "loc", array(cast(longitude as double),cast(latitude as double)))) from tweets where geom is not null;' > tweets.json

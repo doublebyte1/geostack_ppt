@@ -1,0 +1,4 @@
+pdflatex geostack
+pdflatex geostack
+okular geostack.pdf
+

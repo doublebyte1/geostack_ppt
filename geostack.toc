@@ -1,0 +1,5 @@
+\beamer@endinputifotherversion {3.24pt}
+\beamer@sectionintoc {1}{The Value of Data}{5}{0}{1}
+\beamer@sectionintoc {2}{The Big Data Revolution}{13}{0}{2}
+\beamer@sectionintoc {3}{An Use Case}{40}{0}{3}
+\beamer@sectionintoc {4}{Final Remarks}{53}{0}{4}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.8.18)  9 MAR 2015 09:15
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.8.18)  9 MAR 2015 19:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1358,15 +1358,22 @@ Overfull \vbox (14.86015pt too high) detected at line 342
 
 [51
 
- <./geo3.png>] <geo4.png, id=553, 1129.39589pt x 365.60118pt>
-File: geo4.png Graphic file (type png)
+ <./geo3.png>] <heatmap_hive.png, id=553, 604.50844pt x 423.08063pt>
+File: heatmap_hive.png Graphic file (type png)
 
-<use geo4.png>
-Package pdftex.def Info: geo4.png used on input line 351.
-(pdftex.def)             Requested size: 307.28987pt x 99.47232pt.
+<use heatmap_hive.png>
+Package pdftex.def Info: heatmap_hive.png used on input line 362.
+(pdftex.def)             Requested size: 153.64493pt x 107.53229pt.
+ <clusters_hive.png, id=554, 604.50844pt x 423.08063pt>
+File: clusters_hive.png Graphic file (type png)
+
+<use clusters_hive.png>
+Package pdftex.def Info: clusters_hive.png used on input line 362.
+(pdftex.def)             Requested size: 153.64493pt x 107.53229pt.
  [52
 
- <./geo4.png>] [53
+ <./heatmap_hive.png> <./clusters_hive.png>]
+[53
 
 ] [54
 
@@ -1379,13 +1386,13 @@ Package pdftex.def Info: geo4.png used on input line 351.
 ] [58
 
 ]
-<nosql_matters.jpg, id=617, 3276.24pt x 2457.18pt>
+<nosql_matters.jpg, id=620, 3276.24pt x 2457.18pt>
 File: nosql_matters.jpg Graphic file (type jpg)
  <use nosql_matters.jpg>
-Package pdftex.def Info: nosql_matters.jpg used on input line 372.
+Package pdftex.def Info: nosql_matters.jpg used on input line 383.
 (pdftex.def)             Requested size: 215.10196pt x 161.29703pt.
 
-Overfull \vbox (14.81683pt too high) detected at line 372
+Overfull \vbox (14.81683pt too high) detected at line 383
  []
 
 [59
@@ -1393,17 +1400,17 @@ Overfull \vbox (14.81683pt too high) detected at line 372
  <./nosql_matters.jpg>] [60
 
 ]
-<thanks.jpg, id=636, 532.99126pt x 532.99126pt>
+<thanks.jpg, id=639, 532.99126pt x 532.99126pt>
 File: thanks.jpg Graphic file (type jpg)
  <use thanks.jpg>
-Package pdftex.def Info: thanks.jpg used on input line 394.
+Package pdftex.def Info: thanks.jpg used on input line 406.
 (pdftex.def)             Requested size: 61.45703pt x 61.4513pt.
  [61
 
  <./thanks.jpg>]
 File: thanks.jpg Graphic file (type jpg)
  <use thanks.jpg>
-Package pdftex.def Info: thanks.jpg used on input line 394.
+Package pdftex.def Info: thanks.jpg used on input line 406.
 (pdftex.def)             Requested size: 61.45703pt x 61.4513pt.
  [62
 
@@ -1417,24 +1424,24 @@ Package pdftex.def Info: thanks.jpg used on input line 394.
 \tf@snm=\write8
 \openout8 = `geostack.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 396.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 396.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 408.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 408.
  (./geostack.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 396.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 396.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 408.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 408.
 Package rerunfilecheck Info: File `geostack.out' has not changed.
 (rerunfilecheck)             Checksum: DDBF77AF28129890DD79DC1A00672A4C;204.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 396.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 408.
  ) 
 Here is how much of TeX's memory you used:
- 17291 strings out of 495032
- 316524 string characters out of 6181718
+ 17296 strings out of 495032
+ 316668 string characters out of 6181718
  406571 words of memory out of 5000000
- 19927 multiletter control sequences out of 15000+600000
+ 19931 multiletter control sequences out of 15000+600000
  62455 words of font info for 67 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  49i,19n,60p,393b,755s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1445,9 +1452,9 @@ mf/fonts/type1/public/lm/lmss12.pfb></usr/share/texmf/fonts/type1/public/lm/lms
 s8.pfb></usr/share/texmf/fonts/type1/public/lm/lmssbx10.pfb></usr/share/texmf/f
 onts/type1/public/lm/lmtt10.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt8.p
 fb>
-Output written on geostack.pdf (62 pages, 12413778 bytes).
+Output written on geostack.pdf (62 pages, 13386274 bytes).
 PDF statistics:
- 715 PDF objects out of 1000 (max. 8388607)
+ 718 PDF objects out of 1000 (max. 8388607)
  129 named destinations out of 1000 (max. 500000)
- 222 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 227 words of extra memory for PDF output out of 10000 (max. 10000000)
 

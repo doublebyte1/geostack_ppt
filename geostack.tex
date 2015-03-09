@@ -220,9 +220,9 @@ From this point beyond, you are at your own risk!
 \frametitle{Big Data}
 \textbf{What characterizes Big Data?}%3vs
     \begin{itemize}
-      \item<2->Volume: Large amounts of data.
-      \item<3->Variety: Different types of structured, unstructured, and multi-structured data.
-      \item<4->Velocity: Needs to be analyzed quickly.
+      \item<2->\textbf{Volume}: Large amounts of data.
+      \item<3->\textbf{Variety}: Different types of structured, unstructured, and multi-structured data.
+      \item<4->\textbf{Velocity}: Needs to be analyzed quickly.
       \end{itemize}
     \begin{figure}       
 	\includegraphics[width=0.4\textwidth]{3vs.png}      
@@ -343,11 +343,22 @@ Programming model for processing and generating large data sets with a parallel,
 
 \begin{frame}
 \frametitle{Results}
-Using this workflow we were able to turn the original raw tweets, first into a density grid, and then into clusters.
-      \begin{figure}   
-      \includegraphics[width=\textwidth]{geo4.png}   
+Using this workflow we were able to turn the original point cloud, into a density grid, and then into clusters.
+\begin{columns}
+  \begin{column}{0.5\textwidth}
+      \begin{figure}       
+	\includegraphics[width=\textwidth]{heatmap_hive.png}      
      \end{figure}
-As we identified and solved the bottlenecks with the relevant tools, in theory this algorithm is scalable to any Petabytes of data.%quadrillions of bytes
+  \end{column}
+  \begin{column}{0.5\textwidth}
+    \begin{figure}       
+	\includegraphics[width=\textwidth]{clusters_hive.png}      
+     \end{figure}
+  \end{column}  
+\end{columns}
+      \vspace{5mm}  
+Clusters expose patterns of presence over time, and can help us to re-define boundaries for the city that are data-driven, rather than administrative.%bottom up vs top-down
+%As we identified and solved the bottlenecks with the relevant tools, in theory this algorithm is scalable to any Petabytes of data.%quadrillions of bytes
 \end{frame}
 
 \section{Final Remarks}
@@ -374,6 +385,7 @@ I would like to thank Ellen Friedman (MapR, Apache Mahout, Apache Drill), for he
 \begin{frame}
 \frametitle{References}
 \begin{itemize}
+\item Aji, A., Wang, F., Vo, H., Lee, R., Liu, Q., Zhang, X. and Saltz, J." Hadoop-GIS: A High Performance Spatial Data Warehousing System over MapReduce". Proceedings of the VLDB Endowment International Conference on Very Large Data Bases, 6(11), p1009. (2013)
 \item Cuesta, H. "Practical Data Analysis". Packt Publishing (2013)
 \item Dunning, T. and Friedman, E. "Time Series Databases: New Ways to Store and Access Data". O'Reilly Media; 1 edition (October, 2014)
 \item Myatt, G and Johnson, W. "Making Sense Of Data I: A Practical Guide to Exploratory Data Analysis and Data Mining". O'Reilly : 2 edition (2014).

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.8.18)  9 MAR 2015 19:52
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.8.18)  12 MAR 2015 12:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -696,6 +696,10 @@ LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
 )
+(/usr/share/texmf/tex/latex/beamer/base/themes/color/beamercolorthemestructure.
+sty
+Package: beamercolorthemestructure 2010/06/17  (rcs-revision d02a7cf4d8ae)
+)
 (/usr/share/texmf/tex/latex/beamer/base/themes/theme/compatibility/beamerthemes
 hadow.sty
 Package: beamerthemeshadow 2010/06/17  (rcs-revision d02a7cf4d8ae)
@@ -742,33 +746,33 @@ File: lstmisc.sty 2013/08/26 1.5b (Carsten Heinz)
 File: listings.cfg 2013/08/26 1.5b listings configuration
 ))
 Package: listings 2013/08/26 1.5b (Carsten Heinz)
-Package hyperref Info: Option `colorlinks' set `true' on input line 46.
-Package hyperref Info: Option `bookmarksopen' set `true' on input line 46.
+Package hyperref Info: Option `colorlinks' set `true' on input line 49.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 49.
 
 
 Package hyperref Warning: Option `pdftex' has already been used,
-(hyperref)                setting the option has no effect on input line 46.
+(hyperref)                setting the option has no effect on input line 49.
 
 (/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2013/08/26 1.5b listings language file
 ) (./geostack.aux)
 \openout1 = `geostack.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Try loading font information for OT1+lmss on input line 52.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Try loading font information for OT1+lmss on input line 55.
 
  (/usr/share/texmf/tex/latex/lm/ot1lmss.fd
 File: ot1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
@@ -822,7 +826,7 @@ File: ot1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 \everyMPtoPDFconversion=\toks42
 ) ABD: EveryShipout initializing macros
 \AtBeginShipoutBox=\box56
-Package hyperref Info: Link coloring ON on input line 52.
+Package hyperref Info: Link coloring ON on input line 55.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -832,56 +836,56 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count167
 )
-LaTeX Info: Redefining \ref on input line 52.
-LaTeX Info: Redefining \pageref on input line 52.
-LaTeX Info: Redefining \nameref on input line 52.
+LaTeX Info: Redefining \ref on input line 55.
+LaTeX Info: Redefining \pageref on input line 55.
+LaTeX Info: Redefining \nameref on input line 55.
 
 (./geostack.out) (./geostack.out)
 \@outlinefile=\write5
 \openout5 = `geostack.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/lmr/m/n --> OT1/cmss/m/n on input line 52.
+(Font)                  OT1/lmr/m/n --> OT1/cmss/m/n on input line 55.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/lmr/bx/n --> OT1/cmss/bx/n on input line 52.
+(Font)                  OT1/lmr/bx/n --> OT1/cmss/bx/n on input line 55.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/lmr/m/n on input line 52.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 52.
+(Font)                  OT1/cmss/m/n --> OT1/lmr/m/n on input line 55.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 55.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/lmr/bx/n --> OT1/lmss/bx/n on input line 52.
+(Font)                  OT1/lmr/bx/n --> OT1/lmss/bx/n on input line 55.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/lmr/bx/n --> OT1/lmss/bx/n on input line 52.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 52.
+(Font)                  OT1/lmr/bx/n --> OT1/lmss/bx/n on input line 55.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 55.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/lmss/m/n --> OT1/lmss/m/n on input line 52.
+(Font)                  OT1/lmss/m/n --> OT1/lmss/m/n on input line 55.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/lmss/bx/n --> OT1/lmss/m/n on input line 52.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 52.
+(Font)                  OT1/lmss/bx/n --> OT1/lmss/m/n on input line 55.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 55.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/lmr/m/it --> OT1/lmss/m/it on input line 52.
+(Font)                  OT1/lmr/m/it --> OT1/lmss/m/it on input line 55.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/lmr/bx/it --> OT1/lmss/m/it on input line 52.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 52.
+(Font)                  OT1/lmr/bx/it --> OT1/lmss/m/it on input line 55.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 55.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/lmtt/m/n --> OT1/lmtt/m/n on input line 52.
+(Font)                  OT1/lmtt/m/n --> OT1/lmtt/m/n on input line 55.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/lmtt/m/n --> OT1/lmtt/m/n on input line 52.
+(Font)                  OT1/lmtt/m/n --> OT1/lmtt/m/n on input line 55.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  OT1/lmss/m/n --> OT1/lmss/bx/n on input line 52.
+(Font)                  OT1/lmss/m/n --> OT1/lmss/bx/n on input line 55.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/lmss/m/it --> OT1/lmss/bx/it on input line 52.
+(Font)                  OT1/lmss/m/it --> OT1/lmss/bx/it on input line 55.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/lmr/bx/n on input line 52.
+(Font)                  OT1/cmss/bx/n --> OT1/lmr/bx/n on input line 55.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/lmss/bx/n --> OT1/lmss/bx/n on input line 52.
+(Font)                  OT1/lmss/bx/n --> OT1/lmss/bx/n on input line 55.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/lmss/m/n --> OT1/lmss/bx/n on input line 52.
+(Font)                  OT1/lmss/m/n --> OT1/lmss/bx/n on input line 55.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/lmss/m/it --> OT1/lmss/bx/it on input line 52.
+(Font)                  OT1/lmss/m/it --> OT1/lmss/bx/it on input line 55.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/lmtt/m/n --> OT1/lmtt/bx/n on input line 52.
+(Font)                  OT1/lmtt/m/n --> OT1/lmtt/bx/n on input line 55.
 
 (/usr/share/texmf/tex/latex/beamer/base/translator/dicts/translator-basic-dicti
 onary/translator-basic-dictionary-English.dict
@@ -907,60 +911,60 @@ Dictionary: translator-numbers-dictionary, Language: English
 tionary/translator-theorem-dictionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 )
-LaTeX Info: Redefining \includegraphics on input line 52.
+LaTeX Info: Redefining \includegraphics on input line 55.
 \c@lstlisting=\count168
  (./geostack.nav)
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 65.
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 68.
 
 (/usr/share/texmf/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 65.
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 68.
 
 
 (/usr/share/texmf/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 65.
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 68.
 
 
 (/usr/share/texmf/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 65.
+(Font)              <10.95> on input line 68.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 65.
+(Font)              <8> on input line 68.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 65.
-LaTeX Font Info:    Try loading font information for U+msa on input line 65.
+(Font)              <6> on input line 68.
+LaTeX Font Info:    Try loading font information for U+msa on input line 68.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 65.
+LaTeX Font Info:    Try loading font information for U+msb on input line 68.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Font shape `OT1/lmss/m/it' in size <10.95> not available
-(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 65.
+(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 68.
 LaTeX Font Info:    Font shape `OT1/lmss/m/it' in size <8> not available
-(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 65.
+(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 68.
 LaTeX Font Info:    Font shape `OT1/lmss/m/it' in size <6> not available
-(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 65.
+(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 68.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 65.
+(Font)              <5> on input line 68.
 LaTeX Font Info:    Font shape `OT1/lmss/m/it' in size <5> not available
-(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 65.
+(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 68.
 
 <bigdata2.png, id=37, 633.11531pt x 423.08063pt>
 File: bigdata2.png Graphic file (type png)
  <use bigdata2.png>
-Package pdftex.def Info: bigdata2.png used on input line 65.
+Package pdftex.def Info: bigdata2.png used on input line 68.
 (pdftex.def)             Requested size: 107.55333pt x 71.87111pt.
 
-Overfull \vbox (4.14626pt too high) detected at line 65
+Overfull \vbox (4.14626pt too high) detected at line 68
  []
 
 [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
@@ -969,9 +973,9 @@ Overfull \vbox (4.14626pt too high) detected at line 65
 <wordcloud.jpg, id=62, 1443.9546pt x 841.2228pt>
 File: wordcloud.jpg Graphic file (type jpg)
  <use wordcloud.jpg>
-Package pdftex.def Info: wordcloud.jpg used on input line 72.
+Package pdftex.def Info: wordcloud.jpg used on input line 75.
 (pdftex.def)             Requested size: 307.28987pt x 179.01099pt.
-LaTeX Font Info:    Try loading font information for OT1+lmtt on input line 72.
+LaTeX Font Info:    Try loading font information for OT1+lmtt on input line 75.
 
 
 (/usr/share/texmf/tex/latex/lm/ot1lmtt.fd
@@ -985,16 +989,16 @@ File: ot1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 File: warning.jpeg Graphic file (type jpg)
 
 <use warning.jpeg>
-Package pdftex.def Info: warning.jpeg used on input line 91.
+Package pdftex.def Info: warning.jpeg used on input line 94.
 (pdftex.def)             Requested size: 167.42252pt x 48.58063pt.
-LaTeX Font Info:    Try loading font information for OMS+lmss on input line 91.
+LaTeX Font Info:    Try loading font information for OMS+lmss on input line 94.
 
-LaTeX Font Info:    No file OMSlmss.fd. on input line 91.
+LaTeX Font Info:    No file OMSlmss.fd. on input line 94.
 
 
 LaTeX Font Warning: Font shape `OMS/lmss/m/n' undefined
 (Font)              using `OMS/cmsy/m/n' instead
-(Font)              for symbol `textbackslash' on input line 91.
+(Font)              for symbol `textbackslash' on input line 94.
 
 [4
 
@@ -1002,14 +1006,14 @@ LaTeX Font Warning: Font shape `OMS/lmss/m/n' undefined
 File: maury.jpg Graphic file (type jpg)
 
 <use maury.jpg>
-Package pdftex.def Info: maury.jpg used on input line 114.
+Package pdftex.def Info: maury.jpg used on input line 117.
 (pdftex.def)             Requested size: 108.40306pt x 110.81203pt.
  [5
 
  <./maury.jpg>]
 File: maury.jpg Graphic file (type jpg)
  <use maury.jpg>
-Package pdftex.def Info: maury.jpg used on input line 114.
+Package pdftex.def Info: maury.jpg used on input line 117.
 (pdftex.def)             Requested size: 108.40306pt x 110.81203pt.
  [6
 
@@ -1017,10 +1021,10 @@ Package pdftex.def Info: maury.jpg used on input line 114.
 <log.jpg, id=122, 1003.75pt x 579.16376pt>
 File: log.jpg Graphic file (type jpg)
  <use log.jpg>
-Package pdftex.def Info: log.jpg used on input line 133.
+Package pdftex.def Info: log.jpg used on input line 136.
 (pdftex.def)             Requested size: 150.556pt x 86.8708pt.
 
-Overfull \vbox (11.40588pt too high) detected at line 133
+Overfull \vbox (11.40588pt too high) detected at line 136
  []
 
 [7
@@ -1028,10 +1032,10 @@ Overfull \vbox (11.40588pt too high) detected at line 133
  <./log.jpg>]
 File: log.jpg Graphic file (type jpg)
  <use log.jpg>
-Package pdftex.def Info: log.jpg used on input line 133.
+Package pdftex.def Info: log.jpg used on input line 136.
 (pdftex.def)             Requested size: 150.556pt x 86.8708pt.
 
-Overfull \vbox (11.40588pt too high) detected at line 133
+Overfull \vbox (11.40588pt too high) detected at line 136
  []
 
 [8
@@ -1039,10 +1043,10 @@ Overfull \vbox (11.40588pt too high) detected at line 133
 ]
 File: log.jpg Graphic file (type jpg)
  <use log.jpg>
-Package pdftex.def Info: log.jpg used on input line 133.
+Package pdftex.def Info: log.jpg used on input line 136.
 (pdftex.def)             Requested size: 150.556pt x 86.8708pt.
 
-Overfull \vbox (11.40588pt too high) detected at line 133
+Overfull \vbox (11.40588pt too high) detected at line 136
  []
 
 [9
@@ -1050,10 +1054,10 @@ Overfull \vbox (11.40588pt too high) detected at line 133
 ]
 File: log.jpg Graphic file (type jpg)
  <use log.jpg>
-Package pdftex.def Info: log.jpg used on input line 133.
+Package pdftex.def Info: log.jpg used on input line 136.
 (pdftex.def)             Requested size: 150.556pt x 86.8708pt.
 
-Overfull \vbox (11.40588pt too high) detected at line 133
+Overfull \vbox (11.40588pt too high) detected at line 136
  []
 
 [10
@@ -1062,7 +1066,7 @@ Overfull \vbox (11.40588pt too high) detected at line 133
 File: data_analysis.png Graphic file (type png)
 
 <use data_analysis.png>
-Package pdftex.def Info: data_analysis.png used on input line 141.
+Package pdftex.def Info: data_analysis.png used on input line 144.
 (pdftex.def)             Requested size: 245.83282pt x 133.51012pt.
  [11
 
@@ -1072,7 +1076,7 @@ Package pdftex.def Info: data_analysis.png used on input line 141.
 <cluster.jpg, id=179, 5464.415pt x 4098.31125pt>
 File: cluster.jpg Graphic file (type jpg)
  <use cluster.jpg>
-Package pdftex.def Info: cluster.jpg used on input line 169.
+Package pdftex.def Info: cluster.jpg used on input line 172.
 (pdftex.def)             Requested size: 122.91406pt x 92.17676pt.
  [13
 
@@ -1080,14 +1084,14 @@ Package pdftex.def Info: cluster.jpg used on input line 169.
 File: smart_city.png Graphic file (type png)
 
 <use smart_city.png>
-Package pdftex.def Info: smart_city.png used on input line 189.
+Package pdftex.def Info: smart_city.png used on input line 192.
 (pdftex.def)             Requested size: 153.64493pt x 115.23172pt.
  [14
 
  <./smart_city.png (PNG copy)>]
 File: smart_city.png Graphic file (type png)
  <use smart_city.png>
-Package pdftex.def Info: smart_city.png used on input line 189.
+Package pdftex.def Info: smart_city.png used on input line 192.
 (pdftex.def)             Requested size: 153.64493pt x 115.23172pt.
 
 [15
@@ -1095,14 +1099,14 @@ Package pdftex.def Info: smart_city.png used on input line 189.
 ]
 File: smart_city.png Graphic file (type png)
  <use smart_city.png>
-Package pdftex.def Info: smart_city.png used on input line 189.
+Package pdftex.def Info: smart_city.png used on input line 192.
 (pdftex.def)             Requested size: 153.64493pt x 115.23172pt.
  [16
 
 ]
 File: smart_city.png Graphic file (type png)
  <use smart_city.png>
-Package pdftex.def Info: smart_city.png used on input line 189.
+Package pdftex.def Info: smart_city.png used on input line 192.
 (pdftex.def)             Requested size: 153.64493pt x 115.23172pt.
  [17
 
@@ -1110,26 +1114,26 @@ Package pdftex.def Info: smart_city.png used on input line 189.
 <old_map.png, id=230, 438.438pt x 263.5446pt>
 File: old_map.png Graphic file (type png)
  <use old_map.png>
-Package pdftex.def Info: old_map.png used on input line 217.
+Package pdftex.def Info: old_map.png used on input line 220.
 (pdftex.def)             Requested size: 153.64493pt x 92.3586pt.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 217.
+(Font)              <10> on input line 220.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 217.
+(Font)              <7> on input line 220.
 LaTeX Font Info:    Font shape `OT1/lmss/m/it' in size <10> not available
-(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 217.
+(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 220.
 
 LaTeX Font Info:    Font shape `OT1/lmss/m/it' in size <7> not available
-(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 217.
+(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 220.
 
 
 <ebola_ushahidi.jpg, id=231, 959.585pt x 615.29875pt>
 File: ebola_ushahidi.jpg Graphic file (type jpg)
  <use ebola_ushahidi.jpg>
-Package pdftex.def Info: ebola_ushahidi.jpg used on input line 217.
+Package pdftex.def Info: ebola_ushahidi.jpg used on input line 220.
 (pdftex.def)             Requested size: 153.64493pt x 98.51552pt.
 
-Overfull \vbox (4.39368pt too high) detected at line 217
+Overfull \vbox (4.39368pt too high) detected at line 220
  []
 
 [18
@@ -1137,15 +1141,15 @@ Overfull \vbox (4.39368pt too high) detected at line 217
  <./old_map.png> <./ebola_ushahidi.jpg>]
 File: old_map.png Graphic file (type png)
  <use old_map.png>
-Package pdftex.def Info: old_map.png used on input line 217.
+Package pdftex.def Info: old_map.png used on input line 220.
 (pdftex.def)             Requested size: 153.64493pt x 92.3586pt.
 File: ebola_ushahidi.jpg Graphic file (type jpg)
 
 <use ebola_ushahidi.jpg>
-Package pdftex.def Info: ebola_ushahidi.jpg used on input line 217.
+Package pdftex.def Info: ebola_ushahidi.jpg used on input line 220.
 (pdftex.def)             Requested size: 153.64493pt x 98.51552pt.
 
-Overfull \vbox (4.39368pt too high) detected at line 217
+Overfull \vbox (4.39368pt too high) detected at line 220
  []
 
 [19
@@ -1153,14 +1157,14 @@ Overfull \vbox (4.39368pt too high) detected at line 217
 ]
 File: old_map.png Graphic file (type png)
  <use old_map.png>
-Package pdftex.def Info: old_map.png used on input line 217.
+Package pdftex.def Info: old_map.png used on input line 220.
 (pdftex.def)             Requested size: 153.64493pt x 92.3586pt.
 File: ebola_ushahidi.jpg Graphic file (type jpg)
  <use ebola_ushahidi.jpg>
-Package pdftex.def Info: ebola_ushahidi.jpg used on input line 217.
+Package pdftex.def Info: ebola_ushahidi.jpg used on input line 220.
 (pdftex.def)             Requested size: 153.64493pt x 98.51552pt.
 
-Overfull \vbox (4.39368pt too high) detected at line 217
+Overfull \vbox (4.39368pt too high) detected at line 220
  []
 
 [20
@@ -1168,28 +1172,28 @@ Overfull \vbox (4.39368pt too high) detected at line 217
 ] <3vs.png, id=261, 411.78844pt x 340.27126pt>
 File: 3vs.png Graphic file (type png)
  <use 3vs.png>
-Package pdftex.def Info: 3vs.png used on input line 230.
+Package pdftex.def Info: 3vs.png used on input line 233.
 (pdftex.def)             Requested size: 122.91406pt x 101.56813pt.
  [21
 
  <./3vs.png>]
 File: 3vs.png Graphic file (type png)
  <use 3vs.png>
-Package pdftex.def Info: 3vs.png used on input line 230.
+Package pdftex.def Info: 3vs.png used on input line 233.
 (pdftex.def)             Requested size: 122.91406pt x 101.56813pt.
  [22
 
 ]
 File: 3vs.png Graphic file (type png)
  <use 3vs.png>
-Package pdftex.def Info: 3vs.png used on input line 230.
+Package pdftex.def Info: 3vs.png used on input line 233.
 (pdftex.def)             Requested size: 122.91406pt x 101.56813pt.
  [23
 
 ]
 File: 3vs.png Graphic file (type png)
  <use 3vs.png>
-Package pdftex.def Info: 3vs.png used on input line 230.
+Package pdftex.def Info: 3vs.png used on input line 233.
 (pdftex.def)             Requested size: 122.91406pt x 101.56813pt.
  [24
 
@@ -1197,7 +1201,7 @@ Package pdftex.def Info: 3vs.png used on input line 230.
 <paradigm_shift.jpg, id=298, 471.7625pt x 315.1775pt>
 File: paradigm_shift.jpg Graphic file (type jpg)
  <use paradigm_shift.jpg>
-Package pdftex.def Info: paradigm_shift.jpg used on input line 246.
+Package pdftex.def Info: paradigm_shift.jpg used on input line 249.
 (pdftex.def)             Requested size: 92.1879pt x 61.5868pt.
 
 [25
@@ -1206,10 +1210,10 @@ Package pdftex.def Info: paradigm_shift.jpg used on input line 246.
 File: nosql.jpg Graphic file (type jpg)
 
 <use nosql.jpg>
-Package pdftex.def Info: nosql.jpg used on input line 262.
+Package pdftex.def Info: nosql.jpg used on input line 265.
 (pdftex.def)             Requested size: 61.45703pt x 56.47456pt.
 
-Overfull \vbox (10.80276pt too high) detected at line 262
+Overfull \vbox (10.80276pt too high) detected at line 265
  []
 
 [26
@@ -1217,10 +1221,10 @@ Overfull \vbox (10.80276pt too high) detected at line 262
  <./nosql.jpg>]
 File: nosql.jpg Graphic file (type jpg)
  <use nosql.jpg>
-Package pdftex.def Info: nosql.jpg used on input line 262.
+Package pdftex.def Info: nosql.jpg used on input line 265.
 (pdftex.def)             Requested size: 61.45703pt x 56.47456pt.
 
-Overfull \vbox (10.80276pt too high) detected at line 262
+Overfull \vbox (10.80276pt too high) detected at line 265
  []
 
 [27
@@ -1228,10 +1232,10 @@ Overfull \vbox (10.80276pt too high) detected at line 262
 ]
 File: nosql.jpg Graphic file (type jpg)
  <use nosql.jpg>
-Package pdftex.def Info: nosql.jpg used on input line 262.
+Package pdftex.def Info: nosql.jpg used on input line 265.
 (pdftex.def)             Requested size: 61.45703pt x 56.47456pt.
 
-Overfull \vbox (10.80276pt too high) detected at line 262
+Overfull \vbox (10.80276pt too high) detected at line 265
  []
 
 [28
@@ -1239,10 +1243,10 @@ Overfull \vbox (10.80276pt too high) detected at line 262
 ]
 File: nosql.jpg Graphic file (type jpg)
  <use nosql.jpg>
-Package pdftex.def Info: nosql.jpg used on input line 262.
+Package pdftex.def Info: nosql.jpg used on input line 265.
 (pdftex.def)             Requested size: 61.45703pt x 56.47456pt.
 
-Overfull \vbox (10.80276pt too high) detected at line 262
+Overfull \vbox (10.80276pt too high) detected at line 265
  []
 
 [29
@@ -1250,10 +1254,10 @@ Overfull \vbox (10.80276pt too high) detected at line 262
 ]
 File: nosql.jpg Graphic file (type jpg)
  <use nosql.jpg>
-Package pdftex.def Info: nosql.jpg used on input line 262.
+Package pdftex.def Info: nosql.jpg used on input line 265.
 (pdftex.def)             Requested size: 61.45703pt x 56.47456pt.
 
-Overfull \vbox (10.80276pt too high) detected at line 262
+Overfull \vbox (10.80276pt too high) detected at line 265
  []
 
 [30
@@ -1262,7 +1266,7 @@ Overfull \vbox (10.80276pt too high) detected at line 262
 File: sql_vs_nosql.jpg Graphic file (type jpg)
 
 <use sql_vs_nosql.jpg>
-Package pdftex.def Info: sql_vs_nosql.jpg used on input line 270.
+Package pdftex.def Info: sql_vs_nosql.jpg used on input line 273.
 (pdftex.def)             Requested size: 245.83282pt x 150.40697pt.
  [31
 
@@ -1270,7 +1274,7 @@ Package pdftex.def Info: sql_vs_nosql.jpg used on input line 270.
 <examples.jpg, id=366, 963.6pt x 531.9875pt>
 File: examples.jpg Graphic file (type jpg)
  <use examples.jpg>
-Package pdftex.def Info: examples.jpg used on input line 277.
+Package pdftex.def Info: examples.jpg used on input line 280.
 (pdftex.def)             Requested size: 307.28987pt x 169.6469pt.
  [32
 
@@ -1292,28 +1296,28 @@ Package pdftex.def Info: examples.jpg used on input line 277.
 <bigdata1.png, id=440, 633.11531pt x 423.08063pt>
 File: bigdata1.png Graphic file (type png)
  <use bigdata1.png>
-Package pdftex.def Info: bigdata1.png used on input line 317.
+Package pdftex.def Info: bigdata1.png used on input line 320.
 (pdftex.def)             Requested size: 122.91406pt x 82.13564pt.
  [40
 
  <./bigdata1.png>]
 File: bigdata1.png Graphic file (type png)
  <use bigdata1.png>
-Package pdftex.def Info: bigdata1.png used on input line 317.
+Package pdftex.def Info: bigdata1.png used on input line 320.
 (pdftex.def)             Requested size: 122.91406pt x 82.13564pt.
  [41
 
 ]
 File: bigdata1.png Graphic file (type png)
  <use bigdata1.png>
-Package pdftex.def Info: bigdata1.png used on input line 317.
+Package pdftex.def Info: bigdata1.png used on input line 320.
 (pdftex.def)             Requested size: 122.91406pt x 82.13564pt.
  [42
 
 ]
 File: bigdata1.png Graphic file (type png)
  <use bigdata1.png>
-Package pdftex.def Info: bigdata1.png used on input line 317.
+Package pdftex.def Info: bigdata1.png used on input line 320.
 (pdftex.def)             Requested size: 122.91406pt x 82.13564pt.
 
 [43
@@ -1321,7 +1325,7 @@ Package pdftex.def Info: bigdata1.png used on input line 317.
 ]
 File: bigdata1.png Graphic file (type png)
  <use bigdata1.png>
-Package pdftex.def Info: bigdata1.png used on input line 317.
+Package pdftex.def Info: bigdata1.png used on input line 320.
 (pdftex.def)             Requested size: 122.91406pt x 82.13564pt.
  [44
 
@@ -1339,10 +1343,10 @@ Package pdftex.def Info: bigdata1.png used on input line 317.
 <stack.png, id=533, 617.83765pt x 546.98471pt>
 File: stack.png Graphic file (type png)
  <use stack.png>
-Package pdftex.def Info: stack.png used on input line 335.
+Package pdftex.def Info: stack.png used on input line 338.
 (pdftex.def)             Requested size: 215.10196pt x 190.42926pt.
 
-Overfull \vbox (1.01991pt too high) detected at line 335
+Overfull \vbox (1.01991pt too high) detected at line 338
  []
 
 [50
@@ -1350,10 +1354,10 @@ Overfull \vbox (1.01991pt too high) detected at line 335
  <./stack.png>] <geo3.png, id=543, 619.2547pt x 823.31117pt>
 File: geo3.png Graphic file (type png)
  <use geo3.png>
-Package pdftex.def Info: geo3.png used on input line 342.
+Package pdftex.def Info: geo3.png used on input line 345.
 (pdftex.def)             Requested size: 153.64493pt x 204.2695pt.
 
-Overfull \vbox (14.86015pt too high) detected at line 342
+Overfull \vbox (14.86015pt too high) detected at line 345
  []
 
 [51
@@ -1362,13 +1366,13 @@ Overfull \vbox (14.86015pt too high) detected at line 342
 File: heatmap_hive.png Graphic file (type png)
 
 <use heatmap_hive.png>
-Package pdftex.def Info: heatmap_hive.png used on input line 362.
+Package pdftex.def Info: heatmap_hive.png used on input line 365.
 (pdftex.def)             Requested size: 153.64493pt x 107.53229pt.
  <clusters_hive.png, id=554, 604.50844pt x 423.08063pt>
 File: clusters_hive.png Graphic file (type png)
 
 <use clusters_hive.png>
-Package pdftex.def Info: clusters_hive.png used on input line 362.
+Package pdftex.def Info: clusters_hive.png used on input line 365.
 (pdftex.def)             Requested size: 153.64493pt x 107.53229pt.
  [52
 
@@ -1385,32 +1389,32 @@ Package pdftex.def Info: clusters_hive.png used on input line 362.
 
 ] [58
 
-]
-<nosql_matters.jpg, id=620, 3276.24pt x 2457.18pt>
-File: nosql_matters.jpg Graphic file (type jpg)
- <use nosql_matters.jpg>
-Package pdftex.def Info: nosql_matters.jpg used on input line 383.
-(pdftex.def)             Requested size: 215.10196pt x 161.29703pt.
+] <ellen2.jpg, id=620, 2457.18pt x 3276.24pt>
+File: ellen2.jpg Graphic file (type jpg)
 
-Overfull \vbox (14.81683pt too high) detected at line 383
+<use ellen2.jpg>
+Package pdftex.def Info: ellen2.jpg used on input line 386.
+(pdftex.def)             Requested size: 122.91406pt x 163.87158pt.
+
+Overfull \vbox (17.39139pt too high) detected at line 386
  []
 
 [59
 
- <./nosql_matters.jpg>] [60
+ <./ellen2.jpg>] [60
 
-]
-<thanks.jpg, id=639, 532.99126pt x 532.99126pt>
+] <thanks.jpg, id=639, 532.99126pt x 532.99126pt>
 File: thanks.jpg Graphic file (type jpg)
- <use thanks.jpg>
-Package pdftex.def Info: thanks.jpg used on input line 406.
+
+<use thanks.jpg>
+Package pdftex.def Info: thanks.jpg used on input line 409.
 (pdftex.def)             Requested size: 61.45703pt x 61.4513pt.
  [61
 
  <./thanks.jpg>]
 File: thanks.jpg Graphic file (type jpg)
  <use thanks.jpg>
-Package pdftex.def Info: thanks.jpg used on input line 406.
+Package pdftex.def Info: thanks.jpg used on input line 409.
 (pdftex.def)             Requested size: 61.45703pt x 61.4513pt.
  [62
 
@@ -1424,24 +1428,24 @@ Package pdftex.def Info: thanks.jpg used on input line 406.
 \tf@snm=\write8
 \openout8 = `geostack.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 408.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 408.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 411.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 411.
  (./geostack.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 408.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 408.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 411.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 411.
 Package rerunfilecheck Info: File `geostack.out' has not changed.
 (rerunfilecheck)             Checksum: DDBF77AF28129890DD79DC1A00672A4C;204.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 408.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 411.
  ) 
 Here is how much of TeX's memory you used:
- 17296 strings out of 495032
- 316668 string characters out of 6181718
- 406571 words of memory out of 5000000
- 19931 multiletter control sequences out of 15000+600000
+ 17319 strings out of 495032
+ 317515 string characters out of 6181718
+ 407105 words of memory out of 5000000
+ 19951 multiletter control sequences out of 15000+600000
  62455 words of font info for 67 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  49i,19n,60p,393b,755s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1452,7 +1456,7 @@ mf/fonts/type1/public/lm/lmss12.pfb></usr/share/texmf/fonts/type1/public/lm/lms
 s8.pfb></usr/share/texmf/fonts/type1/public/lm/lmssbx10.pfb></usr/share/texmf/f
 onts/type1/public/lm/lmtt10.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt8.p
 fb>
-Output written on geostack.pdf (62 pages, 13386274 bytes).
+Output written on geostack.pdf (62 pages, 13426003 bytes).
 PDF statistics:
  718 PDF objects out of 1000 (max. 8388607)
  129 named destinations out of 1000 (max. 500000)
